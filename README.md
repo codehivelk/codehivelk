@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="#" target="blank">codehive</a>
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="#" target="blank">CodeHive</a>
 </h1>
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=24&center=true&vCenter=true&width=600&height=50&lines=Software%20Developer%3BOpen-Source%20Enthusiast" alt="Headline" />
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-23-blue" />
+  <img src="https://img.shields.io/badge/Age-4-blue" />
   <img src="https://img.shields.io/badge/Lives-Your%20Country-success" />
   <img src="https://img.shields.io/badge/Languages-English-brightgreen" />
 </p>
