@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-4-blue" />
-  <img src="https://img.shields.io/badge/Lives-Your%20Country-success" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
   <img src="https://img.shields.io/badge/Languages-English-brightgreen" />
 </p>
 
@@ -31,7 +31,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,github,html,java,js,mysql,bootstrap,tailwind&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,js,mysql,python,react,nextjs,spring,cpp,php&perline=14" />
   </a>
 </p>
 
